@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/rtmp_transmit.dir/src/decode_video.c.o  -o ../bin/rtmp_transmit  -L/usr/local/ffmpeg/lib -Wl,-rpath,/usr/local/ffmpeg/lib -lavcodec -lavformat -lswscale -lavdevice -lavutil 

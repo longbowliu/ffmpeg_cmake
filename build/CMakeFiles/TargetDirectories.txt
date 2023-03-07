@@ -1,0 +1,3 @@
+/home/demo/0test/build/CMakeFiles/rebuild_cache.dir
+/home/demo/0test/build/CMakeFiles/rtmp_transmit.dir
+/home/demo/0test/build/CMakeFiles/edit_cache.dir
